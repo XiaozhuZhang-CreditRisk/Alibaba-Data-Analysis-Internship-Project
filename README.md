@@ -241,5 +241,9 @@ Techniques used:
 
 ## Author
 
+**Xiaozhu Zhang**  
+
+M.S. Enterprise Risk Management, Columbia University  
+*Focus: Risk Management & Credit Risk Management & Risk Consult*
 
 ---
