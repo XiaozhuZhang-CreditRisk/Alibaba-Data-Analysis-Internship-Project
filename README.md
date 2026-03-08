@@ -81,9 +81,6 @@ Conversion rates:
 * PageView → Order: **8.56%**
 * PageView → SavedCart: **2.35%**
 
-Layout:
-
-
 ---
 
 ### 2. Activity Funnel Analysis
@@ -99,6 +96,10 @@ Key insights:
 * Identification of major **drop-off points**
 * Evaluation of **conversion performance between stages**
 * Opportunities to improve **checkout completion**
+
+Layout:
+<img width="786" height="492" alt="image" src="https://github.com/user-attachments/assets/227a5eda-105f-4e8a-8363-50d8e186a881" />
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/f35df29c-e645-4d91-95a5-4f1a12a43463" />
 
 ---
 
@@ -141,6 +142,9 @@ Customer distribution:
 
 This segmentation supports targeted marketing strategies.
 
+Layout:
+<img width="1576" height="870" alt="image" src="https://github.com/user-attachments/assets/58e123e0-15bc-4de5-b91b-a41640884a63" />
+
 ---
 
 ### 5. Time-based Activity Analysis
@@ -157,6 +161,13 @@ Visualizations include:
 
 * Hourly activity charts
 * Behavioral heatmaps
+
+Layout:
+<img width="1588" height="814" alt="image" src="https://github.com/user-attachments/assets/2be3c361-bce2-4fae-9522-d6e56c1ae1c2" />
+<img width="1562" height="622" alt="image" src="https://github.com/user-attachments/assets/511b8561-2692-4a28-8ed0-f7de6beac9f0" />
+<img width="1550" height="902" alt="image" src="https://github.com/user-attachments/assets/023137a5-64d8-4d14-846e-42f9a8efccb4" />
+<img width="1542" height="742" alt="image" src="https://github.com/user-attachments/assets/b772c368-fa94-4af2-8b82-ffbca411f215" />
+<img width="1530" height="890" alt="image" src="https://github.com/user-attachments/assets/f062ac02-d34b-44e3-b059-1b6b80b7e5b6" />
 
 ---
 
@@ -228,59 +239,7 @@ Techniques used:
 
 ---
 
-## How to Run the Project
-
-### Requirements
-
-Python 3.7+
-
-Required packages:
-
-```
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-```
-
-### Installation
-
-```
-git clone [repository-url]
-
-pip install -r requirements.txt
-
-jupyter notebook
-```
-
-### Usage
-
-1. Start with `01-basic-stats.ipynb`
-2. Continue sequentially through the notebooks
-3. Each notebook builds upon previous analysis
-4. Final insights are summarized in `05-data-analysis.ipynb`
-
----
-
-## Future Improvements
-
-Possible extensions include:
-
-* Customer churn prediction models
-* Conversion prediction using machine learning
-* A/B testing for conversion optimization
-* Full **RFM customer segmentation**
-* Interactive dashboards using **Tableau or Power BI**
-
----
-
 ## Author
 
-Data Analytics / Data Science Portfolio Project
 
 ---
-
-## License
-
-This repository is intended for educational and portfolio purposes.
